@@ -1,0 +1,136 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: #FFDA9F;
+}
+
+
+
+.navcolor {
+  background-color: #c39560;
+}
+
+.navbar-text1 {
+  margin-right: 0px;
+  padding-right: 0px;
+  margin-left: 40vw;
+}
+
+.navbar-text2 {
+  margin-left: 5vw;
+}
+
+
+.button {
+  background-color: #ff6929;
+  border: none;
+  color: white;
+  padding: 20px 40px 20px 40px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 6px;
+}
+
+.button:hover {
+  background-color: #ff8957;
+  color: #121212;
+}
+
+.img1 {
+  width: 100%;
+}
+
+.header {
+  font-size: 3vw;
+  text-align: center;
+  font-family: 'Carattere';
+  font-weight: bolder;
+  color: #574433;
+  margin-top: 5vw;
+  margin-bottom: 5vw;
+}
+
+.par1 {
+  background-color: #DFAD73;
+  border-radius: 12px;
+  padding: 20px 50px 20px 50px;
+  text-align: center;
+  font-size: 1vw;
+  color: #574433;
+}
+
+.card-body {
+  background-color: #DFAD73;
+}
+
+.card {
+  background-color: #DFAD73;
+}
+
+.card-text {
+  color: #574433;
+}
+
+.card-title {
+  color: #574433;
+}
+
+.header1 {
+  background-color: #DFAD73;
+  border-radius: 12px;
+  padding: 20px 50px 20px 50px;
+  text-align: center;
+  font-size: 3vw;
+  color: #574433;
+}
+
+.header2 {
+  background-color: #DFAD73;
+  border-radius: 12px;
+  padding: 20px 50px 20px 50px;
+  text-align: center;
+  font-family: 'Carattere';
+  color: #574433;
+}
+
+.header3 {
+  background-color: #DFAD73;
+  border-radius: 12px;
+  padding: 20px 50px 20px 50px;
+  text-align: center;
+  font-size: 1.5vw;
+  color: #574433;
+}
+
+.header4 {
+  background-color: #DFAD73;
+  padding: 20px 50px 20px 50px;
+  text-align: center;
+  color: #574433;
+  font-size: 1vw;
+  
+}
+
+.foot{
+  font-size: 1vw;
+  font-weight: bolder;
+}
+
+.button1{
+  background-color: #ff6929;
+  border: none;
+  color: white;
+  padding: 20px 40px 20px 40px;
+  text-align: center;
+  text-decoration: none;
+  font-size: 16px;
+  cursor: pointer;
+  border-radius: 6px;
+  width: 100%;
+}
